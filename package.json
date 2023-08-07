@@ -1,0 +1,17 @@
+{
+  "name": "vsproject",
+  "version": "1.0.0",
+  "description": "cypress-test",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^12.17.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
